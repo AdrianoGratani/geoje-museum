@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.l {
+    font-family: "Noto Serif KR", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+.m {
+    font-family: "Noto Serif KR", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.mb {
+    font-family: "Noto Serif KR", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.b {
+  font-family: "Noto Serif KR", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
